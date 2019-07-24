@@ -1,3 +1,10 @@
+## About the Zombie Manager
+
+This is an general database application that manages zombies in quarantine zones. The app is written using React, Node.js, and MySQL. To access the MySQL database, you can download a copy of the database including in the root folder of this application. You'll need to install MySQL on your system, though.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
