@@ -2,8 +2,8 @@ export default {
     mysql: {
         host: 'localhost',
         port: 3306,
-        user: 'sampsoninc916',
+        user: 'zombieman1968',
         database: 'zombies',
-        password: 'MiLk123='
+        password: 'TheWalkingDead123!'
     }
 };
